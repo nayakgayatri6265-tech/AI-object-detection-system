@@ -1,1 +1,0 @@
-# AI-object-detection-system
